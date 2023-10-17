@@ -1,5 +1,4 @@
-import { HomeTabs } from "../components/HomeTabs"
-import { Sidebar } from "../Includes/Sidebar"
+
 import { HomeBody } from "./HomeBody"
 import { HomeLayout } from "./HomeLayout"
 

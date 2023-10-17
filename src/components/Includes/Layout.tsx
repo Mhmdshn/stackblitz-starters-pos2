@@ -1,6 +1,6 @@
-import { Footer } from "../Includes/Footer"
-import { NavBarTop } from "../Includes/NavBarTop"
-import { Sidebar } from "../Includes/Sidebar"
+import { Footer } from "./Footer"
+import { NavBarTop } from "./NavBarTop"
+import { Sidebar } from "./Sidebar"
 
 
 type propsNav = {

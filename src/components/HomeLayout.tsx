@@ -1,5 +1,5 @@
 import { HomeTabs } from "../components/HomeTabs"
-import { Sidebar } from "../Includes/Sidebar"
+import { Sidebar } from "./Includes/Sidebar"
 import { HomeBody } from "./HomeBody"
 
 type propsHomeLayout = {
